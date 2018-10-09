@@ -9,3 +9,9 @@ I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey t
 ![issue tab](https://lab.github.com/public/images/issue_tab.png)
 
 I'll meet you over there, can't wait to get started!
+
+added chages 1
+added chages 2
+added chages 3
+added chages 4
+added chages 5
